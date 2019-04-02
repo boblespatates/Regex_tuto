@@ -1,0 +1,6 @@
+Properties : are configuration values managed as key/value pairs.
+https://docs.oracle.com/javase/tutorial/essential/environment/properties.html
+
+Annotators: https://stanfordnlp.github.io/CoreNLP/annotators.html
+
+parts of speech : https://cs.nyu.edu/grishman/jet/guide/PennPOS.html
